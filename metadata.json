@@ -1,0 +1,5 @@
+{
+  "name": "Reflex Blitz",
+  "description": "A minimalist, high-precision reaction time trainer. Wait for the green screen, click instantly, and track your millisecond performance with statistics.",
+  "requestFramePermissions": []
+}
